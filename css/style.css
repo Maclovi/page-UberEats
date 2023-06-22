@@ -414,6 +414,7 @@
 .name:hover{ color: #327430; cursor: pointer; }
 .menu_card:hover{ background: #fbfbfb; cursor: pointer; }
 .dropdown:hover .dropdown-content{ display:block; }
+.language:hover{ color:#59BD5A; }
 .link-main:hover{ color:#59BD5A; }
 #gsearch::placeholder{
     font-weight: 400;
